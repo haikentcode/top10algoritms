@@ -46,17 +46,15 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 9.Counting Sort
 10.Manacher’s algorithm: Part 1, Part 2 and Part 3
 
-#Number theory and Other Mathematical
-
-1.Prime Numbers and Prime Factorization
-2.Primality Test | Set 1 (Introduction and School Method)
-3.Primality Test | Set 2 (Fermat Method)
-4.Primality Test | Set 3 (Miller–Rabin)
-5.Sieve of Eratosthenes
-6.Segmented Sieve
-7.Wilson’s Theorem
-8.Prime Factorisation
-9.Pollard’s rho algorithm
+#Prime Numbers and Prime Factorization
+1.Primality Test | Set 1 (Introduction and School Method)
+2.Primality Test | Set 2 (Fermat Method)
+3.Primality Test | Set 3 (Miller–Rabin)
+4.Sieve of Eratosthenes
+5.Segmented Sieve
+6.Wilson’s Theorem
+7.Prime Factorisation
+8.Pollard’s rho algorithm
  
 
 #Modulo Arithmetic Algorithms
