@@ -36,7 +36,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 #Searching And Sorting
 
 1. <del>Binary Search</del>
-2. Quick Sort
+2. <del>Quick Sort</del>
 3. <del>Merge Sort</del>
 4. Order Statistics
 5. KMP algorithm
@@ -53,8 +53,8 @@ Top 10 Algorithms and Data Structures for Competitive Programming
   2. <del>Set 2 (Fermat Method)</del>
   3. <del>Set 3 (Miller–Rabin)</del>
 2. <del>Sieve of Eratosthenes</del>
-3. Segmented Sieve
-4. Wilson’s Theorem
+3. Segmented Sieve - P
+4. Wilson’s Theorem - P
 5. <del>Prime Factorisation</del>
 6. Pollard’s rho algorithm
  
