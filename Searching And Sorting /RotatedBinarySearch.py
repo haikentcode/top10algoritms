@@ -30,7 +30,7 @@ def rbsearch(lst,l,r,k):
             if k >= lst[l] and k <= lst[mid]:
                    return rbsearch(lst,l,mid-1,k)
             return rbsearch(lst,mid+1,r,k)
-       if k >=lst[mid] and k <= lst[mid]: # wrong here ,
+       if k >=lst[mid] and k <= lst[r]: 
                     return rbsearch(lst,mid+1,r,k)
        return rbsearch(lst,l,mid-1,k)
 
