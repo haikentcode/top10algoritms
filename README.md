@@ -43,7 +43,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 6. Rabin karp
 7. Z’s algorithm
 8. Aho Corasick String Matching
-9. Counting Sort
+9. <del>Counting Sort</del>
 10. Manacher’s algorithm: Part 1, Part 2 and Part 3
 
 #Prime Numbers and Prime Factorization
