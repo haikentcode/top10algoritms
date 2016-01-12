@@ -66,7 +66,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 3. <del>Modular Exponentiation</del>
 4. <del>Modular Multiplicative Inverse</del>
 5. <del>Chinese remainder theorem and Modulo Inverse Implementation</del>
-6. nCr%m 
+6. <del>nCr%m</del> 
 
 #Mathematical Algorithms
 

@@ -18,4 +18,4 @@ def ranged_primes(x, y):
     return [n for n in range(x, y) if all(n % p for p in primes)]
 if __name__=="__main__":
     if len(sys.argv) > 2:
-        primeFactor(int(sys.argv[1]),int(sys.argv[2]))
+        print primeFactor(int(sys.argv[1]),int(sys.argv[2]))
