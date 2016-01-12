@@ -53,7 +53,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
   2. <del>Set 2 (Fermat Method)</del>
   3. <del>Set 3 (Miller–Rabin)</del>
 2. <del>Sieve of Eratosthenes</del>
-3. </del>Segmented Sieve<del>
+3. <del>Segmented Sieve</del>
 4. Wilson’s Theorem - P
 5. <del>Prime Factorisation</del>
 6. <del>Pollard’s rho algorithm</del>
@@ -79,10 +79,8 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 7. Hungarian algorithm
 8. Link cut
 9. Mo’s algorithm and this
-10. Factorial of a large number in C++
-11. Factorial of a large number in Java+
-12. Russian Peasant Multiplication
-13. Catalan Number
+10. Russian Peasant Multiplication
+11. Catalan Number
 
 
 
