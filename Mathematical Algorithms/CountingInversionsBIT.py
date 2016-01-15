@@ -17,7 +17,7 @@ def getInvCount(arr,n):
     invcount = 0
     maxElement = 0;
     for i in range(n):
-        if (maxElement < arr[i]):
+        if maxElement < arr[i]:
             maxElement = arr[i]
     BIT[maxElement+1];
     for i in range(1,maxElement+1):

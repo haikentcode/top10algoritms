@@ -6,7 +6,7 @@ def getInvCount(arr,n):
     inv_count = 0
     for i in range(n):
         for i in range(i+1,n):
-            if(arr[i]>arr[j]):
+            if arr[i]>arr[j] :
                 inv_coun=inv_count+1
     return inv_count
 
