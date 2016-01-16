@@ -18,11 +18,11 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 
 #Dynamic Programming
 
-1. Longest Common Subsequence
-2. Longest Increasing Subsequence
-3. Edit Distance
-4. Minimum Partition
-5. Ways to Cover a Distance
+1. <del>Longest Common Subsequence</del>
+2. <del>Longest Increasing Subsequence</del>
+3. <del>Edit Distance</del>
+4. <del>Minimum Partition</del>
+5. <del>Ways to Cover a Distance</del>
 6. Longest Path In Matrix
 7. Subset Sum Problem
 8. Optimal Strategy for a Game
@@ -30,7 +30,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 10. Assembly Line Scheduling
 
 
- 
+
 
 
 #Searching And Sorting
@@ -57,7 +57,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 4. Wilson’s Theorem - P
 5. <del>Prime Factorisation</del>
 6. <del>Pollard’s rho algorithm</del>
- 
+
 
 #Modulo Arithmetic Algorithms
 
@@ -66,14 +66,14 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 3. <del>Modular Exponentiation</del>
 4. <del>Modular Multiplicative Inverse</del>
 5. <del>Chinese remainder theorem and Modulo Inverse Implementation</del>
-6. <del>nCr%m</del> 
+6. <del>nCr%m</del>
 
 #Mathematical Algorithms
 
-1. Counting Inversions
-2. Counting Inversions using BIT
-3. logarithmic exponentiation
-4. Square root of an integer
+1. <del>Counting Inversions</del>
+2. <del>Counting Inversions using BIT</del>
+3. <del>logarithmic exponentiation</del>
+4. <del>Square root of an integer</del>
 5. Heavy light Decomposition and this
 6. Matrix Rank
 7. Hungarian algorithm
@@ -103,7 +103,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 2. Segment Tree (RMQ, Range Sum and Lazy Propagation)
 3. K-D tree (See insert, minimum and delete)
 4. Union Find Disjoint Set (Cycle Detection and By Rank and Path Compression)
-5. Tries
+5. Tries - H
 6. Suffix array (this, this and this)
 7. Sparse table
 8. Suffix automata
