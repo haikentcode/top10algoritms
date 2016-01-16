@@ -19,8 +19,8 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 #Dynamic Programming
 
 1. <del>Longest Common Subsequence</del>
-2. Longest Increasing Subsequence
-3. Edit Distance
+2. <del>Longest Increasing Subsequence</del>
+3. <del>Edit Distance</del>
 4. Minimum Partition
 5. Ways to Cover a Distance
 6. Longest Path In Matrix
