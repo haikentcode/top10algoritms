@@ -21,7 +21,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 1. <del>Longest Common Subsequence</del>
 2. <del>Longest Increasing Subsequence</del>
 3. <del>Edit Distance</del>
-4. Minimum Partition
+4. <del>Minimum Partition</del>
 5. <del>Ways to Cover a Distance</del>
 6. Longest Path In Matrix
 7. Subset Sum Problem
