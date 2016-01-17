@@ -80,7 +80,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 8. Link cut
 9. Mo’s algorithm and this
 10. Russian Peasant Multiplication
-11. Catalan Number
+11. <del>Catalan Number</del>
 
 
 
@@ -103,7 +103,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 2. Segment Tree (RMQ, Range Sum and Lazy Propagation)
 3. K-D tree (See insert, minimum and delete)
 4. Union Find Disjoint Set (Cycle Detection and By Rank and Path Compression)
-5. Tries - H
+5. <del>Tries</del>
 6. Suffix array (this, this and this)
 7. Sparse table
 8. Suffix automata
