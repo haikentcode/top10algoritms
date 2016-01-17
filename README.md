@@ -75,7 +75,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 3. <del>logarithmic exponentiation</del>
 4. <del>Square root of an integer</del>
 5. Heavy light Decomposition and this
-6. Matrix Rank
+6. <del>Matrix Rank</del>
 7. Hungarian algorithm
 8. Link cut
 9. Mo’s algorithm and this
