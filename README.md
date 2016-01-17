@@ -79,7 +79,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 7. Hungarian algorithm
 8. Link cut
 9. Mo’s algorithm and this
-10. Russian Peasant Multiplication
+10. <del>Russian Peasant Multiplication</del>
 11. <del>Catalan Number</del>
 
 
