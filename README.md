@@ -3,13 +3,13 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 
 #Graph Algorithms
 
-1. Breadth First Search (BFS)
-2. Depth First Search (DFS)
-3. Shortest Path from source to all vertices **Dijkstra**
-4. Shortest Path from every vertex to every other vertex **Floyd Warshall**
-5. Minimum Spanning tree **Prim**
-6. Minimum Spanning tree **Kruskal**
-7. Topological Sort
+1. <del>Breadth First Search (BFS)</del>
+2. <del>Depth First Search (DFS)</del>
+3. <del>Shortest Path from source to all vertices **Dijkstra**</del>
+4. <del>Shortest Path from every vertex to every other vertex **Floyd Warshall**</del>
+5. <del>Minimum Spanning tree **Prim**</del>
+6. <del>Minimum Spanning tree **Kruskal**</del>
+7. <del>Topological Sort</del>
 8. Johnson’s algorithm
 9. Articulation Points (or Cut Vertices) in a Graph
 10. Bridges in a graph
