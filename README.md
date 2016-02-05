@@ -24,7 +24,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 4. <del>Minimum Partition</del>
 5. <del>Ways to Cover a Distance</del>
 6. Longest Path In Matrix
-7. Subset Sum Problem
+7. Subset Sum Problem - P
 8. Optimal Strategy for a Game
 9. 0-1 Knapsack Problem
 10. Assembly Line Scheduling
