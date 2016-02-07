@@ -10,7 +10,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 5. <del>Minimum Spanning tree **Prim**</del>
 6. <del>Minimum Spanning tree **Kruskal**</del>
 7. <del>Topological Sort</del>
-8. Johnson’s algorithm - P
+8. Johnson’s algorithm 
 9. Articulation Points (or Cut Vertices) in a Graph
 10. Bridges in a graph
 
