@@ -101,7 +101,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 
 ###Data Structures
 
-1. Binary Indexed Tree or Fenwick tree
+1.<del> Binary Indexed Tree or Fenwick tree</del>
 2. Segment Tree (RMQ, Range Sum and Lazy Propagation)
 3. K-D tree (See insert, minimum and delete)
 4. Union Find Disjoint Set (Cycle Detection and By Rank and Path Compression)
