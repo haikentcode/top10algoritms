@@ -1,7 +1,7 @@
-## Top10algoritms
+# Top10algoritms
 Top 10 Algorithms and Data Structures for Competitive Programming
 
-##Graph Algorithms
+###Graph Algorithms
 
 1. <del>Breadth First Search (BFS)</del>
 2. <del>Depth First Search (DFS)</del>
@@ -16,7 +16,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 
 
 
-##Dynamic Programming
+###Dynamic Programming
 
 1. <del>Longest Common Subsequence</del>
 2. <del>Longest Increasing Subsequence</del>
@@ -33,7 +33,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 
 
 
-#Searching And Sorting
+###Searching And Sorting
 
 1. <del>Binary Search</del>
 2. <del>Quick Sort</del>
@@ -48,7 +48,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 
 ##Number theory and Other Mathematical
 
-#Prime Numbers and Prime Factorization
+####Prime Numbers and Prime Factorization
 
 1. <del>Primality Test </del>
   1. <del>Set 1 (Introduction and School Method)</del>
@@ -61,7 +61,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 6. <del>Pollard’s rho algorithm</del>
 
 
-#Modulo Arithmetic Algorithms
+####Modulo Arithmetic Algorithms
 
 1. <del>Basic and Extended Euclidean algorithms</del>
 2. <del>Euler’s Totient Function</del>
@@ -70,7 +70,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 5. <del>Chinese remainder theorem and Modulo Inverse Implementation</del>
 6. <del>nCr%m</del>
 
-#Miscellaneous Algorithms
+####Miscellaneous Algorithms
 
 1. <del>Counting Inversions</del>
 2. <del>Counting Inversions using BIT</del>
@@ -86,7 +86,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 
 
 
-##Geometrical and Network Flow Algorithms
+###Geometrical and Network Flow Algorithms
 
 1. Convex Hull
 2. Graham Scan
@@ -99,7 +99,7 @@ Top 10 Algorithms and Data Structures for Competitive Programming
 9. Hopcroft–Karp Algorithm for Maximum Matching
 10. Dinic’s algo
 
-##Data Structures
+###Data Structures
 
 1. Binary Indexed Tree or Fenwick tree
 2. Segment Tree (RMQ, Range Sum and Lazy Propagation)
